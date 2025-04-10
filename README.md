@@ -39,13 +39,13 @@ Once the development server is running, open your browser and navigate to `http:
 Here are some screenshots of the Neighborhood Library in action:
 
 ### Home Page
-![Home Page](screenshots/home-page.png)
-
+<img src="https://github.com/user-attachments/assets/485eaac7-e2e8-4687-863a-b23318d561a1" width="500" height="200" alt="Screenshot 2025-04-10 at 11 49 23 AM">
+  
 ### Book Search
-![Book Search](screenshots/book-search.png)
+<img src="https://github.com/user-attachments/assets/a451f19b-5dc7-4eb8-926b-811c1192a4b3" width="400" height="400" alt="Screenshot 2025-04-10 at 11 40 42 AM">
 
 ### User Profile
-![User Profile](screenshots/user-profile.png)
+<img src="https://github.com/user-attachments/assets/dc611a47-0289-4833-af69-d1f663e936ed" width="420" height="75" alt="Screenshot 2025-04-10 at 11 50 19 AM">
 
 ## 🤝 Contributing
 
